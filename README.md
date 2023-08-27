@@ -5,7 +5,7 @@ Shir Nitzan, Timor Baruch, Hadar Pur
 Submitted as a project report for the AI for Healthcare course, IDC, 2023
 
 ## Overview
-This document provides a comprehensive walkthrough of the process we undertook in our course assignment. The primary goal of our study was to classify bone fractures in X-ray images from the MURA dataset \cite{rajpurkar2017mura} using Self-Supervised Learning (SSL) techniques and compare its performance with that of a Baseline model. Our assignment focused particularly on three bones: the elbow, hand, and shoulder.
+This document provides a comprehensive walkthrough of the process we undertook in our course assignment. The primary goal of our study was to classify bone fractures in X-ray images from the MURA dataset using Self-Supervised Learning (SSL) techniques and compare its performance with that of a Baseline model. Our assignment focused particularly on three bones: the elbow, hand, and shoulder.
 The assignment encompassed several steps:
 
 1. The initial phase involved exploring the MURA dataset, establishing a naive baseline, analyzing the distribution of data, and visualizing and evaluating the results, including both successful and unsuccessful predictions.
